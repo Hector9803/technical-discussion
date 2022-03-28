@@ -15,4 +15,4 @@ this is a good example of [my code](https://gist.github.com/Hector9803/40e076a03
 
 ### Colab Example
 
-This is the [notebook](https://github.com/Hector9803/technical-discussion/commit/d5b7e1651f09d16df25cdddb59378fb9e05ad2fc)
+This is the [notebook](technical_docs.ipynb)
