@@ -2,7 +2,7 @@
 this is a demo repo for sharing ideas around communication
 
 
-## THIS IS A SECOND HEADINDG
+## THIS IS A SECOND HEADING
 
 * one
 * two
